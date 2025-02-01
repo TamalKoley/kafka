@@ -1,0 +1,15 @@
+{
+  "name": "first_kafka_program",
+  "version": "1.0.0",
+  "description": "my first kafka program",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tamal Koley",
+  "license": "ISC",
+  "dependencies": {
+    "node-rdkafka": "^3.2.1"
+  }
+}
