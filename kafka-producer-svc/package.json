@@ -1,0 +1,16 @@
+{
+  "name": "first_kafka_program",
+  "version": "1.0.0",
+  "description": "my first kafka program",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node producer.js"
+  },
+  "author": "Tamal Koley",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^6.13.0",
+    "node-rdkafka": "^3.2.1"
+  }
+}
