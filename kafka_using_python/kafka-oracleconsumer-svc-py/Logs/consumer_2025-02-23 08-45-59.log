@@ -1,0 +1,3 @@
+Received message: {"EMPLOYEE_ID": 18, "FIRST_NAME": "SUBHAM", "LAST_NAME": "BOSE", "HIRE_DATE": "2025-02-19", "SALARY": 45000.0}
+Received message: {"EMPLOYEE_ID": 1, "FIRST_NAME": "TAMAL", "LAST_NAME": "KOLEY", "HIRE_DATE": "2025-02-19", "SALARY": 50000.0}
+no more messages

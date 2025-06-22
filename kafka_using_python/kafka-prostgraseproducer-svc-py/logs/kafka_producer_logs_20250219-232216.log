@@ -1,0 +1,6 @@
+Record: (17, 'TAMAL', 'KOLEY', datetime.date(1997, 6, 6), Decimal('50000'))
+Message delivered to custom_kafka_py [0]
+Message published successfully
+Record: (18, 'SUBHAM', 'BOSE', datetime.date(1997, 7, 6), Decimal('45000'))
+Message delivered to custom_kafka_py [0]
+Message published successfully

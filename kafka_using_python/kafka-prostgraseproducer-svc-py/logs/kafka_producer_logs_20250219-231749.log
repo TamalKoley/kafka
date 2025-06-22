@@ -1,0 +1,1 @@
+Error reading data from PostgreSQL table: can only concatenate tuple (not "str") to tuple
